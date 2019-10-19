@@ -1,4 +1,7 @@
 <html>
+<head>
+<title>Hi rehu</title>
+</head>
 <body>
 <?php
 session_start();
